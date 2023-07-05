@@ -11,4 +11,4 @@ New Lines are created with a backslash and n.
 
 <h2>Output:</h2>
 
-
+![image](https://github.com/poojaasinghhh/100-Days-of-Code-Python/assets/137191212/349a56c6-7b0a-448e-875f-a49cdfe3bf3e)
