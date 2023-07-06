@@ -1,4 +1,4 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 1 Beginner - Working with Variables in Python to Manage Data
 
 <h2>Concepts Learned in Day 1 :</h2>
 
